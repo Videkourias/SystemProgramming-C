@@ -1,0 +1,49 @@
+}
+	return 0;
+
+	}
+		printf("File read successfully\nFirst line: %s", str);
+	if(ptr!=NULL){ //Tests if read was successful
+
+	
+	void* ptr = fgets(str, 30, fp); //Will print first line of file if file is accessible
+	char str[30];	//String
+
+
+	sleep(2); //wait for child
+	
+	}
+		exit(1);
+		fclose(fp);
+		printf("Child process closes file: %p\n", fp);
+	if(pid == 0){ //Is child process
+
+	}
+		exit(1);
+		perror("Fork error...\n");
+	if(pid == -1){ //Fork error
+
+
+	int pid = fork(); //Id of child process
+
+
+
+
+	}
+		perror("File error...\n");
+	if((fp = fopen("in.txt", "r")) == NULL){ //Open file
+
+	int status;
+	FILE *fp;
+
+int main(){
+
+#include<sys/wait.h>
+#include<stdlib.h>
+#include<unistd.h>
+#include<stdio.h>
+*/
+the parent process can still access the file.
+close the parents file pointer. After the child closes fp in the program below,
+A child process closing a file pointer inherited from the parent doesn't 
+/*
