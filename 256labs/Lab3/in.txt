@@ -1,0 +1,6 @@
+this is an input file
+it has many lines of text
+its purpose is to test a c program
+the program doesnt want to work
+i really wish it would work
+debugging is a hassle
